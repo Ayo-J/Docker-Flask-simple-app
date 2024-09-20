@@ -40,3 +40,12 @@ In this course, I learned the fundamentals of Docker and how to containerize app
 
 This repository contains the code examples and resources I created during the course:
 
+
+## Getting Started
+
+To get started with this repository:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/LinkedInLearning/docker-your-first-project-4485003.git
+
