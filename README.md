@@ -20,7 +20,7 @@ To resolve this issue:
 
 
 
-[0]: # ([Replace these placeholder URLs with actual course URLs](https://github.com/LinkedInLearning/docker-your-first-project-4485003))
+[0]: # ([https://github.com/LinkedInLearning/docker-your-first-project-4485003])
 
 [lil-course-url]: https://www.linkedin.com/learning/
 
