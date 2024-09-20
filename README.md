@@ -44,8 +44,6 @@ This repository contains the code examples and resources I created during the co
 ## Getting Started
 
 To get started with this repository:
+[docker-your-first-project-4485003](https://github.com/LinkedInLearning/docker-your-first-project-4485003.git)
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/LinkedInLearning/docker-your-first-project-4485003.git
 
